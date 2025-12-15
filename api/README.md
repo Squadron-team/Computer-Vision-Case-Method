@@ -1,0 +1,1 @@
+A mini API demo project that demonstrates how our system detects fake receipts after being developed in a Jupyter Notebook environment.
